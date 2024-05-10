@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashwin Sharma // https://sites.google.com/view/portfolio-of-ashwin 
 - 👀 I’m interested in Software Programming ( web and app ) and a bit of Ethical Hacking.
 - 🌱 I’m currently learning web and app development, along with a little investment of time, with Kali Linux.
-- 📔 I'm experienced in the languages and frameworks, listed here - https://asprograms.github.io/InfoStack/
+- 📔 I'm experienced in the languages and frameworks, listed here - [Skills and Achievements](https://sites.google.com/view/portfolio-of-ashwin/more-details/skills-and-achievements)
 - 💞️ I’m looking for collaborators, hungry for experience and challenges. 
 - 📫 How to reach me -> Mail at ashwin.aksharma.p@outlook.com or drop a "hii" at +91 8920150451
 
